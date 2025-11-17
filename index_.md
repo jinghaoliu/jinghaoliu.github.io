@@ -17,5 +17,5 @@ I am currently a Ph.D. student at University of Technology Sydney (UTS). Before 
  * Third Prize in 10th, 11th Chinese Collegiate Computing Competition.
 
 # Academic Service
-* Journal Reviewer: CVPR, PRCV etc.
+ * Journal Reviewer: CVPR, PRCV etc.
 
