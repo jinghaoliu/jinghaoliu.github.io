@@ -7,6 +7,9 @@ I am currently a Ph.D. student at University of Technology Sydney (UTS). Before 
 <br/>
 
 # Publications
+* Towards Unpaired Cross-Modal Transfer
+* Retrieval Information Injection for Enhanced Medical Report Generation
+
 <br/>
 
 # Work experience
